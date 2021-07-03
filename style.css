@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(243, 221, 221);
+}
+.head {
+    border-radius: 15px;
+    border: 2px solid black;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    color: rgb(249, 249, 252);
+    font-size: 20px;
+    padding: 0%; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkgray;
+    background-image: linear-gradient(to left, black, yellow);
+}
+#abc{
+    font-size: 50px;
+    margin: 0%;
+    margin-bottom: 0px;
+    padding: 0px;
+
+}
+.left {
+    background-color: yellow;
+    width: 50%;
+    float: left;
+}
+.right {
+    background-color: black;
+    float: right;
+    width: 50%;
+}
+#bcd{
+    font-size: 40px;
+
+}
+li{
+    font-size: 35px;
+    list-style: square;
+}
+#Cell{
+    font-size: 40px;
+}
+#ab{ 
+    float: right;
+    margin-right: 200px;
+}
+#bc{
+    float: left;
+    margin-left: 250px;
+}
+#cd{
+    float: left;
+    margin-left: 150px;
+}
+#de{
+    float: right;
+    margin-right: 300px;
+}
+div.footer{ 
+        border: 5px solid rgb(116, 57, 57);
+        margin-top: 5px;
+        text-align: center;
+        border-bottom-left-radius: 50px;
+        border-top-left-radius: 50px;
+        width: 60%;
+        float: right;
+        padding-top: auto;
+        font-size: 15px;
+
+            
+}
